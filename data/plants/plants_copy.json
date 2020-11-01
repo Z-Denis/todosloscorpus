@@ -4,682 +4,841 @@
   "plants": [
     {
       "name": "Aliso",
+      "gender": "m",
       "species": "Alnus"
     },
     {
       "name": "Aliso negro",
+      "gender": "m",
       "species": "Alnus glutinosa, Ilex verticillata"
     },
     {
       "name": "Aliso común",
+      "gender": "m",
       "species": "Alnus glutinosa"
     },
     {
       "name": "Acebo",
+      "gender": "m",
       "species": "Ilex verticillata"
     },
     {
       "name": "Aliso gris",
+      "gender": "m",
       "species": "Alnus incana"
     },
     {
       "name": "Aliso cano",
+      "gender": "m",
       "species": "Alnus incana"
     },
     {
       "name": "Almendro",
+      "gender": "m",
       "species": "Prunus amygdalus, Punus dulcis"
     },
     {
       "name": "Ambrosía gigante",
+      "gender": "f",
       "species": "Ambrosia trifida"
     },
     {
       "name": "Cáñamo canadiense",
+      "gender": "m",
       "species": "Apocynum cannabinum"
     },
     {
       "name": "Manzano",
+      "gender": "m",
       "species": "Malus domestica"
     },
     {
       "name": "Naranjo de Luisiana",
+      "gender": "m",
       "species": "Maclura pomifera"
     },
     {
       "name": "Espino de los osages",
+      "gender": "m",
       "species": "Maclura pomifera"
     },
     {
       "name": "Naranjo de los osages",
+      "gender": "m",
       "species": "Maclura pomifera"
     },
     {
       "name": "Chichigua",
+      "gender": "f",
       "species": "Solanum mammosum"
     },
     {
       "name": "Ubre de vaca",
+      "gender": "f",
       "species": "Solanum mammosum"
     },
     {
       "name": "Manzana de Sodoma",
+      "gender": "f",
       "species": "Solanum mammosum"
     },
     {
       "name": "Ortiga de Carolina",
+      "gender": "f",
       "species": "Solanum carolinense"
     },
     {
       "name": "Arfaj",
+      "gender": "m",
       "species": "Rhanterium epapposum"
     },
     {
       "name": "Sicómoro de Arizona",
+      "gender": "m",
       "species": "Platanus wrightii"
     },
     {
       "name": "Cornejo florido",
+      "gender": "m",
       "species": "Cornus florida"
     },
     {
       "name": "Sanguiñuelo florido",
+      "gender": "m",
       "species": "Cornus florida"
     },
     {
       "name": "Cornejo de China",
+      "gender": "m",
       "species": "Cornus chinensis"
     },
     {
       "name": "Cornejo macho",
+      "gender": "m",
       "species": "Cornus mas"
     },
     {
       "name": "Cornejo de Japón",
+      "gender": "m",
       "species": "Cornus officinalis"
     },
     {
       "name": "Cornejo de fruto negro",
+      "gender": "m",
       "species": "Cornus sessilis"
     },
     {
       "name": "Cornejo siberiano",
+      "gender": "m",
       "species": "Cornus alba"
     },
     {
       "name": "Cornejo pagoda",
+      "gender": "m",
       "species": "Cornus alternifolia"
     },
     {
       "name": "Cornejo de hojas alternas",
+      "gender": "m",
       "species": "Cornus alternifolia"
     },
     {
       "name": "Cornejo de las pagoda",
+      "gender": "m",
       "species": "Cornus asperifolia"
     },
     {
       "name": "Sanguiñuelo asperifolio",
+      "gender": "m",
       "species": "Cornus asperifolia"
     },
     {
       "name": "Cornejo de Bretschneider",
+      "gender": "m",
       "species": "Cornus bretschneideri"
     },
     {
       "name": "Cornejo mesa",
+      "gender": "m",
       "species": "Cornus controversa"
     },
     {
       "name": "Cornejo de Corea",
+      "gender": "m",
       "species": "Cornus coreana"
     },
     {
       "name": "Cornejo de hojas arrugadas",
+      "gender": "m",
       "species": "Cornus drummondii"
     },
     {
       "name": "Cornejo marrón",
+      "gender": "m",
       "species": "Cornus glabrata"
     },
     {
       "name": "Cornejo suave",
+      "gender": "m",
       "species": "Cornus glabrata"
     },
     {
       "name": "Cornejo de Hemsley",
+      "gender": "m",
       "species": "Cornus hemsleyi"
     },
     {
       "name": "Cornejo de Koehne",
+      "gender": "m",
       "species": "Cornus koehneana"
     },
     {
       "name": "Cornejo de hojas grandes",
+      "gender": "m",
       "species": "Cornus macrophylla"
     },
     {
       "name": "Cornejo pálido",
+      "gender": "m",
       "species": "Cornus obliqua"
     },
     {
       "name": "Cornejo de los pantanos del Norte",
+      "gender": "m",
       "species": "Cornus racemosa"
     },
     {
       "name": "Cornejo de Gray",
+      "gender": "m",
       "species": "Cornus racemosa"
     },
     {
       "name": "Cornejo de hoja redondeada",
+      "gender": "m",
       "species": "Cornus rugosa"
     },
     {
       "name": "Cornejo común",
+      "gender": "m",
       "species": "Cornus sanguinea"
     },
     {
       "name": "Sanguino",
+      "gender": "m",
       "species": "Cornus sanguinea"
     },
     {
       "name": "Cornejo de hojas rojas",
+      "gender": "m",
       "species": "Cornus sericea"
     },
     {
       "name": "Cornejo de los pantanos del Sur",
+      "gender": "m",
       "species": "Cornus stricta"
     },
     {
       "name": "Cornejo de Walter",
+      "gender": "m",
       "species": "Cornus walteri"
     },
     {
       "name": "Cornejo de Wilson",
+      "gender": "m",
       "species": "Cornus wilsoniana"
     },
     {
       "name": "Cornejo enano",
+      "gender": "m",
       "species": "Chamaepericlymenum spp."
     },
     {
       "name": "Cornejo florido",
+      "gender": "m",
       "species": "Benthamidia spp."
     },
     {
       "name": "Cornejo del Himalaya",
+      "gender": "m",
       "species": "Benthamidia capitata"
     },
     {
       "name": "Sanguiñuelo de hoja perenne",
+      "gender": "m",
       "species": "Benthamidia capitata"
     },
     {
       "name": "Cornejo de Hong Kong",
+      "gender": "m",
       "species": "Benthamidia hongkongensis"
     },
     {
       "name": "Cornejo de Kousa",
+      "gender": "m",
       "species": "Benthamidia kousa"
     },
     {
       "name": "Fresno",
+      "gender": "m",
       "species": "Fraxinus spp."
     },
     {
       "name": "Fresno negro",
+      "gender": "m",
       "species": "Acer negundo, Fraxinus nigra"
     },
     {
       "name": "Fresno azul",
+      "gender": "m",
       "species": "Fraxinus quadrangulata"
     },
     {
       "name": "Fresno blanco",
+      "gender": "m",
       "species": "Fraxinus americana"
     },
     {
       "name": "Fresno blanco americano",
+      "gender": "m",
       "species": "Fraxinus americana"
     },
     {
       "name": "Fresno blanco",
+      "gender": "m",
       "species": "Fraxinus americana"
     },
     {
       "name": "Fresno americano",
+      "gender": "m",
       "species": "Fraxinus americana"
     },
     {
       "name": "Fresno de la Carolina",
+      "gender": "m",
       "species": "Fraxinus americana"
     },
     {
       "name": "Bufano de Cuba",
+      "gender": "m",
       "species": "Fraxinus caroliniana"
     },
     {
       "name": "Fresno verde",
+      "gender": "m",
       "species": "Fraxinus pennsylvanica"
     },
     {
       "name": "Negundo",
+      "gender": "m",
       "species": "Acer negundo"
     },
     {
       "name": "Arce negundo",
+      "gender": "m",
       "species": "Acer negundo"
     },
     {
       "name": "Acezintle",
+      "gender": "m",
       "species": "Acer negundo"
     },
     {
       "name": "Fresno rojo americano",
+      "gender": "m",
       "species": "Fraxinus pennsylvanica"
     },
     {
       "name": "Helecho de agua",
+      "gender": "m",
       "species": "Azolla"
     },
     {
       "name": "Helecho de agua de Carolina",
+      "gender": "m",
       "species": "Azolla caroliniana"
     },
     {
       "name": "Bambú",
+      "gender": "m",
       "species": "Bambuseae"
     },
     {
       "name": "Banano",
+      "gender": "m",
       "species": "principalmente Musa × paradisica pero también otras especies del género Musa e híbridos"
     },
     {
       "name": "Baobab",
+      "gender": "m",
       "species": "Adansonia"
     },
     {
       "name": "Laurel",
+      "gender": "m",
       "species": "Laurus spp. o Umbellularia spp."
     },
     {
-      "name": "Laurel",
-      "species": "Laurus nobilis (culinario)"
-    },
-    {
       "name": "Laurel de California",
+      "gender": "m",
       "species": "Umbellularia californica"
     },
     {
       "name": "Leguminosa",
+      "gender": "f",
       "species": "Fabaceae, en concreto Phaseolus spp."
     },
     {
       "name": "Gayuba",
+      "gender": "f",
       "species": "Arctostaphylos uva-ursi"
     },
     {
       "name": "Uva de oso",
+      "gender": "f",
       "species": "Arctostaphylos uva-ursi"
     },
     {
       "name": "Falso eléboro verde",
+      "gender": "m",
       "species": "Veratrum viride"
     },
     {
       "name": "Haya",
+      "gender": "f",
       "species": "Fagus"
     },
     {
       "name": "Haya japonesa",
+      "gender": "f",
       "species": "Fagus crenata"
     },
     {
       "name": "Haya china",
+      "gender": "f",
       "species": "Fagus engleriana"
     },
     {
       "name": "Haya mexicana",
+      "gender": "f",
       "species": "Fagus mexicana"
     },
     {
       "name": "Haya balcánica",
+      "gender": "f",
       "species": "Fagus moesiaca"
     },
     {
       "name": "Haya oriental",
+      "gender": "f",
       "species": "Fagus orientalis"
     },
     {
       "name": "Haya común",
+      "gender": "f",
       "species": "Fagus sylvatica L."
     },
     {
       "name": "Haya tortuosa",
+      "gender": "f",
       "species": "Fagus sylvatica var. tortuosa"
     },
     {
       "name": "Haya llorona",
+      "gender": "f",
       "species": "Fagus sylvatica var. pendula"
     },
     {
       "name": "Haya roja",
+      "gender": "f",
       "species": "Fagus sylvatica var. purpurea"
     },
     {
       "name": "Haya púrpura",
+      "gender": "f",
       "species": "Fagus sylvatica var. purpurea"
     },
     {
       "name": "Dulcamara",
+      "gender": "f",
       "species": "Solanum dulcamara"
     },
     {
       "name": "Adela",
+      "gender": "f",
       "species": "Solanum dulcamara"
     },
     {
       "name": "Zanahoria",
+      "gender": "f",
       "species": "Daucus carota"
     },
     {
       "name": "Abedul",
+      "gender": "m",
       "species": "Betula spp."
     },
     {
       "name": "Abedul amarillo",
+      "gender": "m",
       "species": "Betula alleghaniensis"
     },
     {
       "name": "Abedul dulce americano",
+      "gender": "m",
       "species": "Betula lenta"
     },
     {
       "name": "Abedul-cerezo americano",
+      "gender": "m",
       "species": "Betula lenta"
     },
     {
       "name": "Abedul de hojas de carpe",
+      "gender": "m",
       "species": "Betula lenta"
     },
     {
       "name": "Abedul enano",
+      "gender": "m",
       "species": "Betula nana"
     },
     {
       "name": "Abedul negro",
+      "gender": "m",
       "species": "Betula nigra"
     },
     {
       "name": "Abedul negro americano",
+      "gender": "m",
       "species": "Betula nigra"
     },
     {
       "name": "Abedul rojo",
+      "gender": "m",
       "species": "Betula occidentalis"
     },
     {
       "name": "Abedul papirífero",
+      "gender": "m",
       "species": "Betula papyrifera"
     },
     {
       "name": "Abedul de las canoas",
+      "gender": "m",
       "species": "Betula papyrifera"
     },
     {
       "name": "Abedul común",
+      "gender": "m",
       "species": "Betula pendula"
     },
     {
       "name": "Abedul blanco",
+      "gender": "m",
       "species": "Betula pendula"
     },
     {
       "name": "Abedul gris",
+      "gender": "m",
       "species": "Betula populifolia"
     },
     {
       "name": "Abedul pubescente",
+      "gender": "m",
       "species": "Betula pubescens, Betula carpatica, Betula dalecarlica"
     },
     {
       "name": "Abedul chino",
+      "gender": "m",
       "species": "Betula albosinensis"
     },
     {
       "name": "Abedul de Erman",
+      "gender": "m",
       "species": "Betula ermanii"
     },
     {
       "name": "Abedul de Kamchatka",
+      "gender": "m",
       "species": "Betula kamtschatica"
     },
     {
       "name": "Abedul de Maximowicz",
+      "gender": "m",
       "species": "Betula maximowiczii"
     },
     {
       "name": "Abedul pubescente",
+      "gender": "m",
       "species": "Betula pubescens"
     },
     {
       "name": "Abedul del Himalaya",
+      "gender": "m",
       "species": "Betula utilis"
     },
     {
       "name": "Barbarea",
+      "gender": "f",
       "species": "Barbarea vulgaris"
     },
     {
       "name": "Hierba de Santa Bárbara",
+      "gender": "f",
       "species": "Barbarea vulgaris"
     },
     {
       "name": "Hierba de los carpinteros",
+      "gender": "f",
       "species": "Barbarea vulgaris"
     },
     {
       "name": "Berro amargo",
+      "gender": "m",
       "species": "Cardamine spp."
     },
     {
       "name": "Ambrosía",
+      "gender": "f",
+      "number": "s",
       "species": "Ambrosia spp."
     },
     {
       "name": "Morera",
+      "gender": "f",
       "species": "Morus spp."
     },
     {
       "name": "Morera blanca",
+      "gender": "f",
       "species": "Morus alba"
     },
     {
       "name": "Mora colorada",
+      "gender": "f",
       "species": "Morus celtidifolia"
     },
     {
       "name": "Morera negra",
+      "gender": "f",
       "species": "Morus nigra"
     },
     {
       "name": "Morera común",
+      "gender": "f",
       "species": "Morus nigra"
     },
     {
       "name": "Mora roja",
+      "gender": "f",
       "species": "Morus rubra"
     },
     {
       "name": "Zarza",
+      "gender": "f",
       "species": "Rubus spp."
     },
     {
-      "name": "Rocío aborigen",
-      "species": "Rubus aboriginum"
-    },
-    {
       "name": "Frambuesa árctica",
+      "gender": "f",
       "species": "Rubus arcticus"
     },
     {
       "name": "Parrilla",
+      "gender": "f",
       "species": "Caesius"
     },
     {
       "name": "Mora boreal",
+      "gender": "f",
       "species": "Rubus chamaemorus"
     },
     {
       "name": "Frambuesa deliciosa",
+      "gender": "f",
       "species": "Rubus deliciosus"
     },
     {
       "name": "mora silvestre",
+      "gender": "f",
       "species": "Rubus floribundus"
     },
     {
       "name": "Zarzamora",
+      "gender": "f",
       "species": "Rubus fruticosus, Rubus ulmifolius"
     },
     {
       "name": "Frambuesa patagónica",
+      "gender": "f",
       "species": "Rubus geoides"
     },
     {
       "name": "Mora andina",
+      "gender": "f",
       "species": "Rubus glaucus"
     },
     {
-      "name": "Rocío hawaiana",
-      "species": "Rubus hawaiensis"
-    },
-    {
       "name": "Frambueso",
+      "gender": "m",
       "species": "Rubus idaeus"
     },
     {
       "name": "Frambuesa azul",
+      "gender": "f",
       "species": "Rubus leucodermis"
     },
     {
       "name": "Mora de Logan",
+      "gender": "f",
       "species": "Rubus loganobaccus"
     },
     {
       "name": "Mora extranjera",
+      "gender": "f",
       "species": "Rubus niveus"
     },
     {
       "name": "Frambuesa negra",
+      "gender": "f",
       "species": "Rubus occidentalis"
     },
     {
       "name": "Zarza purpúrea",
+      "gender": "f",
       "species": "Rubus odoratus"
     },
     {
       "name": "Frambuesa japonesa",
+      "gender": "f",
       "species": "Rubus phoenicolasius"
     },
     {
       "name": "Zarza salmón",
+      "gender": "f",
       "species": "Rubus spectabilis"
     },
     {
       "name": "Zarza californiana",
+      "gender": "f",
       "species": "Rubus ursinus"
     },
     {
       "name": "Mora de Pensilvania",
+      "gender": "f",
       "species": "Rubus pensilvanicus"
     },
     {
       "name": "Rudbeckia",
+      "gender": "f",
       "species": "Rudbeckia spp."
     },
     {
       "name": "Viburno americano",
+      "gender": "m",
       "species": "Viburnum prunifolium"
     },
     {
       "name": "Estafiate",
+      "gender": "m",
       "species": "Ambrosia artemisiifolia, Artemisia ludoviciana"
     },
     {
       "name": "Ajenjo del país",
+      "gender": "m",
       "species": "Ambrosia artemisiifolia, Artemisia ludoviciana"
     },
     {
       "name": "Altamisa",
+      "gender": "f",
       "species": "Ambrosia artemisiifolia, Ambrosia peruviana, Artemisia vulgaris, Achillea millefolium, Parthenium hysterophorus, Tanacetum parthenium, Teucrium polium"
     },
     {
       "name": "Amargosa",
+      "gender": "f",
       "species": "Ambrosia artemisiifolia, Centaurium erythraea"
     },
     {
       "name": "Artemisia",
+      "gender": "f",
       "species": "Artemisia spp."
     },
     {
       "name": "Arándano",
+      "gender": "m",
       "species": "Vaccinium (Cyanococcus) spp."
     },
     {
       "name": "Arándano azul",
+      "gender": "m",
       "species": "Vaccinium corymbosum"
     },
     {
       "name": "Ajo decorativo azul",
+      "gender": "m",
       "species": "Allium caeruleum"
     },
     {
       "name": "Boj",
+      "gender": "m",
       "species": "Buxus"
     },
     {
       "name": "Incienso",
+      "gender": "m",
       "species": "Encelia farinosa"
     },
     {
       "name": "Llantén mayor",
+      "gender": "m",
       "species": "Plantago major"
     },
     {
       "name": "Llantén",
+      "gender": "m",
       "species": "Plantago major"
     },
     {
       "name": "Alpiste",
+      "gender": "m",
+      "number": "s",
       "species": "Plantago major"
     },
     {
       "name": "Alpiste",
+      "gender": "m",
+      "number": "s",
       "species": "Phalaris canariensis"
     },
     {
       "name": "Ballico",
+      "gender": "m",
       "species": "Plantago major"
     },
     {
       "name": "Cañamón",
+      "gender": "m",
       "species": "Plantago major"
     },
     {
       "name": "Cinco venas",
+      "gender": "m",
+      "number": "s",
       "species": "Plantago major"
     },
     {
       "name": "Gitanilla",
+      "gender": "f",
       "species": "Plantago major"
     },
     {
       "name": "Grana",
+      "gender": "f",
       "species": "Plantago major"
     },
     {
       "name": "Hierba de las siete costillas",
+      "gender": "f",
       "species": "Plantago major"
     },
     {

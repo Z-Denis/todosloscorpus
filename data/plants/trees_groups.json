@@ -1,0 +1,1088 @@
+{
+  "description": "Lista de árboles por nombre común",
+  "source": "https://github.com/dariusk/corpora/edit/master/data/plants/plants.json",
+  "trees": [
+    {
+      "name": "abeto",
+      "gender": "m",
+      "number": "s",
+      "genus": "Abies",
+      "species" : [
+        {
+          "name": "abeto balsámico",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies balsamea"
+        },
+        {
+          "name": "abeto de Navidad",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies balsamea"
+        },
+        {
+          "name": "abeto alpino",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies bifolia, Abies lasiocarpa"
+        },
+        {
+          "name": "abeto de Siberia",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies sibirica"
+        },
+        {
+          "name": "abeto de Sajalín",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies sachalinensis"
+        },
+        {
+          "name": "abeto de Corea",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies koreana"
+        },
+        {
+          "name": "abeto blanco siberiano",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies nephrolepis"
+        },
+        {
+          "name": "abeto de Veitch",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies veitchii"
+        },
+        {
+          "name": "abeto de Vancuver",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies grandis"
+        },
+        {
+          "name": "abeto grande",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies grandis"
+        },
+        {
+          "name": "abeto del Colorado",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies concolor"
+        },
+        {
+          "name": "árbol de Coahuila",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies durangensis"
+        },
+        {
+          "name": "pino mexicano",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies durangensis"
+        },
+        {
+          "name": "pinabete",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies guatemalensis, Abies flinckii"
+        },
+        {
+          "name": "oyamel de Guatemala",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies guatemalensis, Abies flinckii"
+        },
+        {
+          "name": "abeto de Guatemala",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies guatemalensis, Abies flinckii"
+        },
+        {
+          "name": "pashaque",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies guatemalensis, Abies flinckii"
+        },
+        {
+          "name": "romerillo",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies guatemalensis, Abies flinckii"
+        },
+        {
+          "name": "abeto del Nebrodi",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies nebrodensis"
+        },
+        {
+          "name": "abeto común",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies alba"
+        },
+        {
+          "name": "abeto blanco",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies alba"
+        },
+        {
+          "name": "abeto del rey Boris",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies borisii-regis"
+        },
+        {
+          "name": "abeto griego",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies cephalonica"
+        },
+        {
+          "name": "abeto del Cáucaso",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies nordmanniana"
+        },
+        {
+          "name": "abeto de Nordmann",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies nordmanniana"
+        },
+        {
+          "name": "pinsapo",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies pinsapo"
+        },
+        {
+          "name": "abeto de Argelia",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies numidica"
+        },
+        {
+          "name": "abeto de Taiwán",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies kawakamii"
+        },
+        {
+          "name": "abeto japonés Nikko",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies homolepis"
+        },
+        {
+          "name": "abeto nikko",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies homolepis"
+        },
+        {
+          "name": "abeto chino del Min",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies recurvata"
+        },
+        {
+          "name": "abeto japonés momi",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies firma"
+        },
+        {
+          "name": "abeto de Manchuria",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies holophylla"
+        },
+        {
+          "name": "abeto pindrow",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies pindrow"
+        },
+        {
+          "name": "abeto del Pacífico",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies amabilis"
+        },
+        {
+          "name": "abeto púrpura",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies amabilis"
+        },
+        {
+          "name": "abeto de Maries",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies mariesii"
+        },
+        {
+          "name": "abeto de Faber",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies fabri"
+        },
+        {
+          "name": "abeto de Forrest",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies forrestii"
+        },
+        {
+          "name": "abeto de Bután",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies densa"
+        },
+        {
+          "name": "abeto del Himalaya",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies spectabilis"
+        },
+        {
+          "name": "abeto escamoso de la China",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies squamata"
+        },
+        {
+          "name": "oyamel",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies religiosa"
+        },
+        {
+          "name": "oyamel de Juárez",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies hickelii"
+        },
+        {
+          "name": "abeto noble",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies procera "
+        },
+        {
+          "name": "abeto rojo de California",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies magnifica"
+        },
+        {
+          "name": "abeto de Santa Lucía",
+          "gender": "m",
+          "number": "s",
+          "species" : "Abies bracteata"
+        }
+      ]
+    },
+    {
+      "name": "arce",
+      "gender": "m",
+      "number": "s",
+      "genus": "Acer",
+      "species" : [
+        {
+          "name": "arce tridente",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer buergerianum"
+        },
+        {
+          "name": "arce campestre",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer campestre"
+        },
+        {
+          "name": "arce menor",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer campestre"
+        },
+        {
+          "name": "arce silvestre",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer campestre"
+        },
+        {
+          "name": "arce rojo japonés",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer capillipes"
+        },
+        {
+          "name": "arce de Capadocia",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer cappadocicum"
+        },
+        {
+          "name": "arce de hojas de carpe",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer carpinifolium"
+        },
+        {
+          "name": "arce enredadera",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer circinatum"
+        },
+        {
+          "name": "arce de parra",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer cissifolium"
+        },
+        {
+          "name": "arce de corteza de serpiente",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer davidii"
+        },
+        {
+          "name": "arce chino gris",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer griseum"
+        },
+        {
+          "name": "arce de papel",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer griseum"
+        },
+        {
+          "name": "arce griego",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer heldreichii"
+        },
+        {
+          "name": "arce afelpado japonés",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer japonicum"
+        },
+        {
+          "name": "arce suave",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer laevigatum "
+        },
+        {
+          "name": "arce nepal",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer laevigatum "
+        },
+        {
+          "name": "arce de hoja grande",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer macrophyllum"
+        },
+        {
+          "name": "arce de Oregón",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer macrophyllum"
+        },
+        {
+          "name": "pterocaria china",
+          "gender": "f",
+          "number": "s",
+          "species" : "Acer mairei"
+        },
+        {
+          "name": "fresno chino",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer mairei"
+        },
+        {
+          "name": "nuez china",
+          "gender": "f",
+          "number": "s",
+          "species" : "Acer mairei"
+        },
+        {
+          "name": "arce manchuriano",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer mandshuricum"
+        },
+        {
+          "name": "arce ",
+          "gender": "m",
+          "number": "s",
+          "species" : ""
+        },
+        {
+          "name": "arce nikko",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer maximowiczianum"
+        },
+        {
+          "name": "arce de Montpellier",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer monspessulanum"
+        },
+        {
+          "name": "enguelgue",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer monspessulanum"
+        },
+        {
+          "name": "mundillo",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer monspessulanum"
+        },
+        {
+          "name": "acezintle",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer negundo"
+        },
+        {
+          "name": "arce negundo",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer negundo"
+        },
+        {
+          "name": "negundo",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer negundo"
+        },
+        {
+          "name": "arce oliver",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer oliverianum"
+        },
+        {
+          "name": "orón",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer opalus"
+        },
+        {
+          "name": "asar",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer opalus"
+        },
+        {
+          "name": "arce palmado",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer palmatum"
+        },
+        {
+          "name": "arce japonés",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer palmatum"
+        },
+        {
+          "name": "arce polimorfo",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer palmatum"
+        },
+        {
+          "name": "arce de Pensilvania",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer pensylvanicum"
+        },
+        {
+          "name": "arce real",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer platanoides"
+        },
+        {
+          "name": "arce noruego",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer platanoides"
+        },
+        {
+          "name": "arce coreano",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer pseudosieboldianum "
+        },
+        {
+          "name": "arce de flor púrpura",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer pseudosieboldianum "
+        },
+        {
+          "name": "arce rojo",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer rubrum"
+        },
+        {
+          "name": "arce de venas rojas",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer rufinerve "
+        },
+        {
+          "name": "arce de azúcar",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer saccharinum"
+        },
+        {
+          "name": "arce de plateado",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer saccharinum"
+        },
+        {
+          "name": "arce blanco americano",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer saccharinum"
+        },
+        {
+          "name": "arce azucarero",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer saccharum"
+        },
+        {
+          "name": "arce de Tataria",
+          "gender": "m",
+          "number": "s",
+          "species" : "Acer tataricum"
+        }
+      ]
+    },
+    {
+      "name": "falso castaño",
+      "gender": "m",
+      "number": "s",
+      "genus": "Aesculus",
+      "species" : [
+        {
+          "name": "castaño de indias",
+          "gender": "m",
+          "number": "s",
+          "species" : "Aesculus hippocastanum"
+        },
+        {
+          "name": "falso castaño del Japón",
+          "gender": "m",
+          "number": "s",
+          "species" : "Aesculus turbinata"
+        },
+        {
+          "name": "falso castaño de California",
+          "gender": "m",
+          "number": "s",
+          "species" : "Aesculus californica"
+        },
+        {
+          "name": "falso castaño del Himalaya",
+          "gender": "m",
+          "number": "s",
+          "species" : "Aesculus indica"
+        },
+        {
+          "name": "falso castaño amarillo",
+          "gender": "m",
+          "number": "s",
+          "species" : "Aesculus flava"
+        },
+        {
+          "name": "falso castaño de Ohio",
+          "gender": "m",
+          "number": "s",
+          "species" : "Aesculus glabra"
+        },
+        {
+          "name": "falso castaño rojo o de Virginia",
+          "gender": "m",
+          "number": "s",
+          "species" : "Aesculus pavia"
+        },
+        {
+          "name": "castaño de indias enano",
+          "gender": "m",
+          "number": "s",
+          "species" : "Aesculus parviflora"
+        }
+      ]
+    },
+    {
+      "name": "aliso",
+      "gender": "m",
+      "number": "s",
+      "genus": "Alnus",
+      "species" : [
+        {
+          "name": "aile",
+          "gender": "m",
+          "number": "s",
+          "species" : "Alnus acuminata"
+        },
+        {
+          "name": "aliso andino",
+          "gender": "m",
+          "number": "s",
+          "species" : "Alnus acuminata"
+        },
+        {
+          "name": "aliso napolitano",
+          "gender": "m",
+          "number": "s",
+          "species" : "Alnus cordata"
+        },
+        {
+          "name": "aliso común",
+          "gender": "m",
+          "number": "s",
+          "species" : "Alnus glutinosa"
+        },
+        {
+          "name": "aliso negro",
+          "gender": "m",
+          "number": "s",
+          "species" : "Alnus glutinosa"
+        },
+        {
+          "name": "aliso gris",
+          "gender": "m",
+          "number": "s",
+          "species" : "Alnus incana"
+        },
+        {
+          "name": "aliso japonés",
+          "gender": "m",
+          "number": "s",
+          "species" : "Alnus japonica"
+        },
+        {
+          "name": "aliso blanco",
+          "gender": "m",
+          "number": "s",
+          "species" : "Alnus rhombifolia"
+        },
+        {
+          "name": "aliso rojo",
+          "gender": "m",
+          "number": "s",
+          "species" : "Alnus rubra"
+        },
+        {
+          "name": "aliso verde",
+          "gender": "m",
+          "number": "s",
+          "species" : "Alnus viridis"
+        }
+      ]
+    },
+    {
+      "name": "madroño",
+      "gender": "m",
+      "number": "s",
+      "genus": "Arbutus",
+      "species" : [
+        {
+          "name": "madroño oriental",
+          "gender": "m",
+          "number": "s",
+          "species" : "Arbutus andrachne"
+        },
+        {
+          "name": "madroño de Levante",
+          "gender": "m",
+          "number": "s",
+          "species" : "Arbutus andrachne"
+        },
+        {
+          "name": "madroño de Grecia",
+          "gender": "m",
+          "number": "s",
+          "species" : "Arbutus andrachne"
+        },
+        {
+          "name": "madroño canario",
+          "gender": "m",
+          "number": "s",
+          "species" : "Arbutus canariensis"
+        },
+        {
+          "name": "madroño",
+          "gender": "m",
+          "number": "s",
+          "species" : "Arbutus unedo"
+        }
+      ]
+    },
+    {
+      "name": "algarrobo",
+      "gender": "m",
+      "number": "s",
+      "genus": "Ceratonia",
+      "species" : [
+        {
+          "name": "algarrobo",
+          "gender": "m",
+          "number": "s",
+          "species" : "Ceratonia siliqua"
+        }
+      ]
+    },
+    {
+      "name": "carpe",
+      "gender": "m",
+      "number": "s",
+      "genus": "Carpinus",
+      "species" : [
+        {
+          "name": "carpe blanco",
+          "gender": "m",
+          "number": "s",
+          "species" : "Carpinus betulus"
+        },
+        {
+          "name": "carpe europeo",
+          "gender": "m",
+          "number": "s",
+          "species" : "Carpinus betulus"
+        },
+        {
+          "name": "carpe americano",
+          "gender": "m",
+          "number": "s",
+          "species" : "Carpinus caroliniana"
+        },
+        {
+          "name": "carpe oriental",
+          "gender": "m",
+          "number": "s",
+          "species" : "Carpinus orientalis"
+        },
+      ]
+    },
+    {
+      "name": "almez",
+      "gender": "m",
+      "number": "s",
+      "genus": "Celtis",
+      "species" : [
+        {
+          "name": "almez",
+          "gender": "m",
+          "number": "s",
+          "species" : "Celtis australis"
+        },
+        {
+          "name": "lodón",
+          "gender": "m",
+          "number": "s",
+          "species" : "Celtis australis"
+        },
+        {
+          "name": " aligonero",
+          "gender": "m",
+          "number": "s",
+          "species" : "Celtis australis"
+        },
+        {
+          "name": "ledonero",
+          "gender": "m",
+          "number": "s",
+          "species" : "Celtis australis"
+        },
+        {
+          "name": "lodoño",
+          "gender": "m",
+          "number": "s",
+          "species" : "Celtis australis"
+        },
+        {
+          "name": "quicavero",
+          "gender": "m",
+          "number": "s",
+          "species" : "Celtis australis"
+        },
+        {
+          "name": "latonero",
+          "gender": "m",
+          "number": "s",
+          "species" : "Celtis australis"
+        },
+      ]
+    },
+    {
+      "name": "palmito",
+      "gender": "m",
+      "number": "s",
+      "genus": "Chamaerops",
+      "species" : [
+        {
+          "name": "palmito",
+          "gender": "m",
+          "number": "s",
+          "species" : "Chamaerops humilis"
+        },
+        {
+          "name": "palmera enana",
+          "gender": "m",
+          "number": "s",
+          "species" : "Celtis australis"
+        }
+      ]
+    },
+    {
+      "name": "espino",
+      "gender": "m",
+      "number": "s",
+      "genus": "Crataegus",
+      "species" : [
+        {
+          "name": "espino",
+          "gender": "m",
+          "number": "s",
+          "species" : "Crataegus monogyna"
+        },
+        {
+          "name": "majuelo",
+          "gender": "m",
+          "number": "s",
+          "species" : "Crataegus monogyna"
+        },
+        {
+          "name": "albar",
+          "gender": "m",
+          "number": "s",
+          "species" : "Crataegus monogyna"
+        },
+        {
+          "name": "espino blanco",
+          "gender": "m",
+          "number": "s",
+          "species" : "Crataegus monogyna"
+        },
+        {
+          "name": "espino navarro",
+          "gender": "m",
+          "number": "s",
+          "species" : "Crataegus laevigata"
+        },
+        {
+          "name": "majuelo de dos huesos",
+          "gender": "m",
+          "number": "s",
+          "species" : "Crataegus laevigata"
+        }
+      ]
+    },
+    {
+      "name": "ciprés",
+      "gender": "m",
+      "number": "s",
+      "genus": "Cupresus",
+      "species" : [
+        {
+          "name": "ciprés de Bután",
+          "gender": "m",
+          "number": "s",
+          "species" : "Cupressus cashmeriana"
+        },
+        {
+          "name": "ciprés de Cheng",
+          "gender": "m",
+          "number": "s",
+          "species" : "Cupressus chengiana"
+        },
+        {
+          "name": "ciprés de Yunnan",
+          "gender": "m",
+          "number": "s",
+          "species" : "Cupressus duclouxiana"
+        },
+        {
+          "name": "ciprés del Sahara",
+          "gender": "m",
+          "number": "s",
+          "species" : "Cupressus dupreziana"
+        },
+        {
+          "name": "ciprés de Marruecos",
+          "gender": "m",
+          "number": "s",
+          "species" : "Cupressus atlantica"
+        },
+        {
+          "name": "ciprés llorón",
+          "gender": "m",
+          "number": "s",
+          "species" : "Cupressus funebris"
+        },
+        {
+          "name": "ciprés del Tíbet",
+          "gender": "m",
+          "number": "s",
+          "species" : "Cupressus gigantea"
+        },
+        {
+          "name": "ciprés de Leyland",
+          "gender": "m",
+          "number": "s",
+          "species" : "Cupressus leylandii"
+        },
+        {
+          "name": "ciprés del Mediterráneo",
+          "gender": "m",
+          "number": "s",
+          "species" : "Cupressus sempervirens, Cupressus sphaerocarpa"
+        },
+        {
+          "name": "ciprés común",
+          "gender": "m",
+          "number": "s",
+          "species" : "Cupressus sphaerocarpa"
+        },
+        {
+          "name": "ciprés del Himalaya",
+          "gender": "m",
+          "number": "s",
+          "species" : "Cupressus torulosa"
+        },
+        {
+          "name": "ciprés calvo",
+          "gender": "m",
+          "number": "s",
+          "species" : "Cupressus americana"
+        },
+        {
+          "name": "ciprés de Arizona",
+          "gender": "m",
+          "number": "s",
+          "species" : "Cupressus arizonica"
+        },
+        {
+          "name": "ciprés de Santa Cruz",
+          "gender": "m",
+          "number": "s",
+          "species" : "Cupressus abramsiana"
+        },
+        {
+          "name": "ciprés de Modoc",
+          "gender": "m",
+          "number": "s",
+          "species" : "Cupressus bakeri"
+        },
+        {
+          "name": "sabino mexicano",
+          "gender": "m",
+          "number": "s",
+          "species" : "Cupressus distica"
+        },
+        {
+          "name": "ciprés liso de Arizona",
+          "gender": "m",
+          "number": "s",
+          "species" : "Cupressus glabra"
+        },
+        {
+          "name": "ciprés de Guadalupe",
+          "gender": "m",
+          "number": "s",
+          "species" : "Cupressus guadalupensis"
+        },
+        {
+          "name": "ciprés de Monterey",
+          "gender": "m",
+          "number": "s",
+          "species" : "Cupressus macrocarpa"
+        },
+        {
+          "name": "ciprés de California",
+          "gender": "m",
+          "number": "s",
+          "species" : "Cupressus macrocarpa"
+        },
+        {
+          "name": "ciprés de Cuyamaca",
+          "gender": "m",
+          "number": "s",
+          "species" : "Cupressus stephensonii"
+        },
+        {
+          "name": "ciprés de Nootka",
+          "gender": "m",
+          "number": "s",
+          "species" : "Xanthocyparis nootkatensis"
+        },
+        {
+          "name": "ciprés de Lawson",
+          "gender": "m",
+          "number": "s",
+          "species" : "Chamaecyparis lawsoniana"
+        },
+        {
+          "name": "ciprés de la cordillera",
+          "gender": "m",
+          "number": "s",
+          "species" : "Austrocedrus chilensis "
+        },
+        v
+        {
+          "name": "ciprés de las Guaitecas",
+          "gender": "m",
+          "number": "s",
+          "species" : "Pilgerodendron uviferum"
+        },
+        {
+          "name": "ciprés Moctezuma",
+          "gender": "m",
+          "number": "s",
+          "species" : "Taxodium mucronatum"
+        }
+      ]
+    },
+    {
+      "name": "ciprés",
+      "gender": "m",
+      "number": "s",
+      "genus": "Cupresus",
+      "species" : [
+
+      ]
+    },
+  ]
+}
