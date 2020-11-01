@@ -1,897 +1,409 @@
 {
-  "description": "Lista de plantas por nombre común",
-  "source": "https://github.com/dariusk/corpora/edit/master/data/plants/plants.json",
+  "description": "List of plants by common name",
+  "source": "https://en.wikipedia.org/wiki/List_of_plants_by_common_name",
   "plants": [
     {
-      "name": "Aliso",
+      "name": "Alder",
       "species": "Alnus"
     },
     {
-      "name": "Aliso negro",
+      "name": "Black alder",
       "species": "Alnus glutinosa, Ilex verticillata"
     },
     {
-      "name": "Aliso común",
+      "name": "Common alder",
       "species": "Alnus glutinosa"
     },
     {
-      "name": "Acebo",
+      "name": "False alder",
       "species": "Ilex verticillata"
     },
     {
-      "name": "Aliso gris",
+      "name": "Gray alder",
       "species": "Alnus incana"
     },
     {
-      "name": "Aliso cano",
+      "name": "Speckled alder",
       "species": "Alnus incana"
     },
     {
-      "name": "Almendro",
-      "species": "Prunus amygdalus, Punus dulcis"
+      "name": "Striped alder",
+      "species": "Ilex verticillata"
     },
     {
-      "name": "Ambrosía gigante",
+      "name": "White alder",
+      "species": "Alnus incana, Ilex verticillata"
+    },
+    {
+      "name": "Almond",
+      "species": "Prunus amygdalus"
+    },
+    {
+      "name": "Tall ambrosia",
       "species": "Ambrosia trifida"
     },
     {
-      "name": "Cáñamo canadiense",
+      "name": "Amy root",
       "species": "Apocynum cannabinum"
     },
     {
-      "name": "Manzano",
+      "name": "Apple",
       "species": "Malus domestica"
     },
     {
-      "name": "Naranjo de Luisiana",
+      "name": "apple",
       "species": "Maclura pomifera"
     },
     {
-      "name": "Espino de los osages",
-      "species": "Maclura pomifera"
-    },
-    {
-      "name": "Naranjo de los osages",
-      "species": "Maclura pomifera"
-    },
-    {
-      "name": "Chichigua",
-      "species": "Solanum mammosum"
-    },
-    {
-      "name": "Ubre de vaca",
-      "species": "Solanum mammosum"
-    },
-    {
-      "name": "Manzana de Sodoma",
-      "species": "Solanum mammosum"
-    },
-    {
-      "name": "Ortiga de Carolina",
+      "name": "Apple of Sodom",
       "species": "Solanum carolinense"
+    },
+    {
+      "name": "Apricot",
+      "species": "Prunus armeniaca"
     },
     {
       "name": "Arfaj",
       "species": "Rhanterium epapposum"
     },
     {
-      "name": "Sicómoro de Arizona",
-      "species": "Platanus wrightii"
+      "name": "Arizona sycamore",
+      "species": "Platanus wrighitii"
     },
     {
-      "name": "Cornejo florido",
+      "name": "Arrowwood",
       "species": "Cornus florida"
     },
     {
-      "name": "Sanguiñuelo florido",
+      "name": "Indian arrowwood",
       "species": "Cornus florida"
     },
     {
-      "name": "Cornejo de China",
-      "species": "Cornus chinensis"
-    },
-    {
-      "name": "Cornejo macho",
-      "species": "Cornus mas"
-    },
-    {
-      "name": "Cornejo de Japón",
-      "species": "Cornus officinalis"
-    },
-    {
-      "name": "Cornejo de fruto negro",
-      "species": "Cornus sessilis"
-    },
-    {
-      "name": "Cornejo siberiano",
-      "species": "Cornus alba"
-    },
-    {
-      "name": "Cornejo pagoda",
-      "species": "Cornus alternifolia"
-    },
-    {
-      "name": "Cornejo de hojas alternas",
-      "species": "Cornus alternifolia"
-    },
-    {
-      "name": "Cornejo de las pagoda",
-      "species": "Cornus asperifolia"
-    },
-    {
-      "name": "Sanguiñuelo asperifolio",
-      "species": "Cornus asperifolia"
-    },
-    {
-      "name": "Cornejo de Bretschneider",
-      "species": "Cornus bretschneideri"
-    },
-    {
-      "name": "Cornejo mesa",
-      "species": "Cornus controversa"
-    },
-    {
-      "name": "Cornejo de Corea",
-      "species": "Cornus coreana"
-    },
-    {
-      "name": "Cornejo de hojas arrugadas",
-      "species": "Cornus drummondii"
-    },
-    {
-      "name": "Cornejo marrón",
-      "species": "Cornus glabrata"
-    },
-    {
-      "name": "Cornejo suave",
-      "species": "Cornus glabrata"
-    },
-    {
-      "name": "Cornejo de Hemsley",
-      "species": "Cornus hemsleyi"
-    },
-    {
-      "name": "Cornejo de Koehne",
-      "species": "Cornus koehneana"
-    },
-    {
-      "name": "Cornejo de hojas grandes",
-      "species": "Cornus macrophylla"
-    },
-    {
-      "name": "Cornejo pálido",
-      "species": "Cornus obliqua"
-    },
-    {
-      "name": "Cornejo de los pantanos del Norte",
-      "species": "Cornus racemosa"
-    },
-    {
-      "name": "Cornejo de Gray",
-      "species": "Cornus racemosa"
-    },
-    {
-      "name": "Cornejo de hoja redondeada",
-      "species": "Cornus rugosa"
-    },
-    {
-      "name": "Cornejo común",
-      "species": "Cornus sanguinea"
-    },
-    {
-      "name": "Sanguino",
-      "species": "Cornus sanguinea"
-    },
-    {
-      "name": "Cornejo de hojas rojas",
-      "species": "Cornus sericea"
-    },
-    {
-      "name": "Cornejo de los pantanos del Sur",
-      "species": "Cornus stricta"
-    },
-    {
-      "name": "Cornejo de Walter",
-      "species": "Cornus walteri"
-    },
-    {
-      "name": "Cornejo de Wilson",
-      "species": "Cornus wilsoniana"
-    },
-    {
-      "name": "Cornejo enano",
-      "species": "Chamaepericlymenum spp."
-    },
-    {
-      "name": "Cornejo florido",
-      "species": "Benthamidia spp."
-    },
-    {
-      "name": "Cornejo del Himalaya",
-      "species": "Benthamidia capitata"
-    },
-    {
-      "name": "Sanguiñuelo de hoja perenne",
-      "species": "Benthamidia capitata"
-    },
-    {
-      "name": "Cornejo de Hong Kong",
-      "species": "Benthamidia hongkongensis"
-    },
-    {
-      "name": "Cornejo de Kousa",
-      "species": "Benthamidia kousa"
-    },
-    {
-      "name": "Fresno",
+      "name": "Ash",
       "species": "Fraxinus spp."
     },
     {
-      "name": "Fresno negro",
+      "name": "Black ash",
       "species": "Acer negundo, Fraxinus nigra"
     },
     {
-      "name": "Fresno azul",
-      "species": "Fraxinus quadrangulata"
-    },
-    {
-      "name": "Fresno blanco",
-      "species": "Fraxinus americana"
-    },
-    {
-      "name": "Fresno blanco americano",
-      "species": "Fraxinus americana"
-    },
-    {
-      "name": "Fresno blanco",
-      "species": "Fraxinus americana"
-    },
-    {
-      "name": "Fresno americano",
-      "species": "Fraxinus americana"
-    },
-    {
-      "name": "Fresno de la Carolina",
-      "species": "Fraxinus americana"
-    },
-    {
-      "name": "Bufano de Cuba",
-      "species": "Fraxinus caroliniana"
-    },
-    {
-      "name": "Fresno verde",
+      "name": "Blue ash",
       "species": "Fraxinus pennsylvanica"
     },
     {
-      "name": "Negundo",
-      "species": "Acer negundo"
+      "name": "Cane ash",
+      "species": "Fraxinus americana"
     },
     {
-      "name": "Arce negundo",
-      "species": "Acer negundo"
-    },
-    {
-      "name": "Acezintle",
-      "species": "Acer negundo"
-    },
-    {
-      "name": "Fresno rojo americano",
+      "name": "Green ash",
       "species": "Fraxinus pennsylvanica"
     },
     {
-      "name": "Helecho de agua",
+      "name": "Maple ash",
+      "species": "Acer negundo"
+    },
+    {
+      "name": "Red ash",
+      "species": "Fraxinus pennsylvanica"
+    },
+    {
+      "name": "River ash",
+      "species": "Fraxinus pennsylvanica"
+    },
+    {
+      "name": "Swamp ash",
+      "species": "Fraxinus pennsylvanica"
+    },
+    {
+      "name": "White ash",
+      "species": "Fraxinus americana"
+    },
+    {
+      "name": "Water ash",
+      "species": "Acer negundo, Fraxinus pennsylvanica"
+    },
+    {
+      "name": "Azolla",
       "species": "Azolla"
     },
     {
-      "name": "Helecho de agua de Carolina",
+      "name": "Carolina azolla",
       "species": "Azolla caroliniana"
     },
     {
-      "name": "Bambú",
+      "name": "Bamboo",
       "species": "Bambuseae"
     },
     {
-      "name": "Banano",
-      "species": "principalmente Musa × paradisica pero también otras especies del género Musa e híbridos"
+      "name": "Banana",
+      "species": "mainly Musa × paradisica, but also other Musa species and hybrids"
     },
     {
       "name": "Baobab",
       "species": "Adansonia"
     },
     {
-      "name": "Laurel",
-      "species": "Laurus spp. o Umbellularia spp."
+      "name": "Bay",
+      "species": "Laurus spp. or Umbellularia spp."
     },
     {
-      "name": "Laurel",
-      "species": "Laurus nobilis (culinario)"
+      "name": "Bay laurel",
+      "species": "Laurus nobilis (culinary)"
     },
     {
-      "name": "Laurel de California",
+      "name": "California bay",
       "species": "Umbellularia californica"
     },
     {
-      "name": "Leguminosa",
-      "species": "Fabaceae, en concreto Phaseolus spp."
+      "name": "Bean",
+      "species": "Fabaceae, specifically Phaseolus spp."
     },
     {
-      "name": "Gayuba",
-      "species": "Arctostaphylos uva-ursi"
+      "name": "Bearberry",
+      "species": "Ilex decidua"
     },
     {
-      "name": "Uva de oso",
-      "species": "Arctostaphylos uva-ursi"
-    },
-    {
-      "name": "Falso eléboro verde",
+      "name": "Bear corn",
       "species": "Veratrum viride"
     },
     {
-      "name": "Haya",
+      "name": "Beech",
       "species": "Fagus"
     },
     {
-      "name": "Haya japonesa",
-      "species": "Fagus crenata"
-    },
-    {
-      "name": "Haya china",
-      "species": "Fagus engleriana"
-    },
-    {
-      "name": "Haya mexicana",
-      "species": "Fagus mexicana"
-    },
-    {
-      "name": "Haya balcánica",
-      "species": "Fagus moesiaca"
-    },
-    {
-      "name": "Haya oriental",
-      "species": "Fagus orientalis"
-    },
-    {
-      "name": "Haya común",
-      "species": "Fagus sylvatica L."
-    },
-    {
-      "name": "Haya tortuosa",
-      "species": "Fagus sylvatica var. tortuosa"
-    },
-    {
-      "name": "Haya llorona",
-      "species": "Fagus sylvatica var. pendula"
-    },
-    {
-      "name": "Haya roja",
-      "species": "Fagus sylvatica var. purpurea"
-    },
-    {
-      "name": "Haya púrpura",
-      "species": "Fagus sylvatica var. purpurea"
-    },
-    {
-      "name": "Dulcamara",
+      "name": "Blue bindweed",
       "species": "Solanum dulcamara"
     },
     {
-      "name": "Adela",
-      "species": "Solanum dulcamara"
-    },
-    {
-      "name": "Zanahoria",
+      "name": "Bird's nest",
       "species": "Daucus carota"
     },
     {
-      "name": "Abedul",
+      "name": "Bird's nest plant",
+      "species": "Daucus carota"
+    },
+    {
+      "name": "Birch",
       "species": "Betula spp."
     },
     {
-      "name": "Abedul amarillo",
+      "name": "Black birch",
+      "species": "Betula lenta, Betula nigra"
+    },
+    {
+      "name": "Bolean birch",
+      "species": "Betula papyrifera"
+    },
+    {
+      "name": "Canoe birch",
+      "species": "Betula papyrifera"
+    },
+    {
+      "name": "Cherry birch",
+      "species": "Betula lenta"
+    },
+    {
+      "name": "European weeping birch",
+      "species": "Betula pendula"
+    },
+    {
+      "name": "European white birch",
+      "species": "Betula pendula"
+    },
+    {
+      "name": "Gray birch",
       "species": "Betula alleghaniensis"
     },
     {
-      "name": "Abedul dulce americano",
+      "name": "Mahogany birch",
       "species": "Betula lenta"
     },
     {
-      "name": "Abedul-cerezo americano",
-      "species": "Betula lenta"
-    },
-    {
-      "name": "Abedul de hojas de carpe",
-      "species": "Betula lenta"
-    },
-    {
-      "name": "Abedul enano",
-      "species": "Betula nana"
-    },
-    {
-      "name": "Abedul negro",
-      "species": "Betula nigra"
-    },
-    {
-      "name": "Abedul negro americano",
-      "species": "Betula nigra"
-    },
-    {
-      "name": "Abedul rojo",
-      "species": "Betula occidentalis"
-    },
-    {
-      "name": "Abedul papirífero",
+      "name": "Paper birch",
       "species": "Betula papyrifera"
     },
     {
-      "name": "Abedul de las canoas",
+      "name": "Red birch",
+      "species": "Betula nigra"
+    },
+    {
+      "name": "River birch",
+      "species": "Betula nigra, Betula lenta"
+    },
+    {
+      "name": "Silver birch",
       "species": "Betula papyrifera"
     },
     {
-      "name": "Abedul común",
+      "name": "Spice birch",
+      "species": "Betula lenta"
+    },
+    {
+      "name": "Sweet birch",
+      "species": "Betula lenta"
+    },
+    {
+      "name": "Water birch",
+      "species": "Betula nigra"
+    },
+    {
+      "name": "Weeping birch",
       "species": "Betula pendula"
     },
     {
-      "name": "Abedul blanco",
-      "species": "Betula pendula"
+      "name": "White birch",
+      "species": "Betula papyrifera, Betula pendula"
     },
     {
-      "name": "Abedul gris",
-      "species": "Betula populifolia"
+      "name": "Yellow birch",
+      "species": "Betula alleghaniensis"
     },
     {
-      "name": "Abedul pubescente",
-      "species": "Betula pubescens, Betula carpatica, Betula dalecarlica"
+      "name": "Bittercress",
+      "species": "Barbarea vulgaris, Cardamine bulbosa, Cardamine hirsuta"
     },
     {
-      "name": "Abedul chino",
-      "species": "Betula albosinensis"
+      "name": "Hairy bittercress",
+      "species": "Cardamine hirsuta"
     },
     {
-      "name": "Abedul de Erman",
-      "species": "Betula ermanii"
+      "name": "Bittersweet",
+      "species": "Solanum dulcamara"
     },
     {
-      "name": "Abedul de Kamchatka",
-      "species": "Betula kamtschatica"
+      "name": "Trailing bittersweet",
+      "species": "Solanum dulcamara"
     },
     {
-      "name": "Abedul de Maximowicz",
-      "species": "Betula maximowiczii"
+      "name": "Bitterweed",
+      "species": "Any plant in the Ambrosia genus, specially Ambrosia artemisiifolia, Artemisia trifida, Helenium amarum"
     },
     {
-      "name": "Abedul pubescente",
-      "species": "Betula pubescens"
+      "name": "Blackberry",
+      "species": "Rubus spp., Rubus pensilvanicus, Rubus occidentalis"
     },
     {
-      "name": "Abedul del Himalaya",
-      "species": "Betula utilis"
+      "name": "Hispid swamp blackberry",
+      "species": "Rubus hispidus"
     },
     {
-      "name": "Barbarea",
-      "species": "Barbarea vulgaris"
-    },
-    {
-      "name": "Hierba de Santa Bárbara",
-      "species": "Barbarea vulgaris"
-    },
-    {
-      "name": "Hierba de los carpinteros",
-      "species": "Barbarea vulgaris"
-    },
-    {
-      "name": "Berro amargo",
-      "species": "Cardamine spp."
-    },
-    {
-      "name": "Ambrosía",
-      "species": "Ambrosia spp."
-    },
-    {
-      "name": "Morera",
-      "species": "Morus spp."
-    },
-    {
-      "name": "Morera blanca",
-      "species": "Morus alba"
-    },
-    {
-      "name": "Mora colorada",
-      "species": "Morus celtidifolia"
-    },
-    {
-      "name": "Morera negra",
-      "species": "Morus nigra"
-    },
-    {
-      "name": "Morera común",
-      "species": "Morus nigra"
-    },
-    {
-      "name": "Mora roja",
-      "species": "Morus rubra"
-    },
-    {
-      "name": "Zarza",
-      "species": "Rubus spp."
-    },
-    {
-      "name": "Rocío aborigen",
-      "species": "Rubus aboriginum"
-    },
-    {
-      "name": "Frambuesa árctica",
-      "species": "Rubus arcticus"
-    },
-    {
-      "name": "Parrilla",
-      "species": "Caesius"
-    },
-    {
-      "name": "Mora boreal",
-      "species": "Rubus chamaemorus"
-    },
-    {
-      "name": "Frambuesa deliciosa",
-      "species": "Rubus deliciosus"
-    },
-    {
-      "name": "mora silvestre",
-      "species": "Rubus floribundus"
-    },
-    {
-      "name": "Zarzamora",
-      "species": "Rubus fruticosus, Rubus ulmifolius"
-    },
-    {
-      "name": "Frambuesa patagónica",
-      "species": "Rubus geoides"
-    },
-    {
-      "name": "Mora andina",
-      "species": "Rubus glaucus"
-    },
-    {
-      "name": "Rocío hawaiana",
-      "species": "Rubus hawaiensis"
-    },
-    {
-      "name": "Frambueso",
-      "species": "Rubus idaeus"
-    },
-    {
-      "name": "Frambuesa azul",
-      "species": "Rubus leucodermis"
-    },
-    {
-      "name": "Mora de Logan",
-      "species": "Rubus loganobaccus"
-    },
-    {
-      "name": "Mora extranjera",
-      "species": "Rubus niveus"
-    },
-    {
-      "name": "Frambuesa negra",
-      "species": "Rubus occidentalis"
-    },
-    {
-      "name": "Zarza purpúrea",
-      "species": "Rubus odoratus"
-    },
-    {
-      "name": "Frambuesa japonesa",
-      "species": "Rubus phoenicolasius"
-    },
-    {
-      "name": "Zarza salmón",
-      "species": "Rubus spectabilis"
-    },
-    {
-      "name": "Zarza californiana",
-      "species": "Rubus ursinus"
-    },
-    {
-      "name": "Mora de Pensilvania",
+      "name": "Pennsylvania blackberry",
       "species": "Rubus pensilvanicus"
     },
     {
-      "name": "Rudbeckia",
-      "species": "Rudbeckia spp."
+      "name": "Running swamp blackberry",
+      "species": "Rubus hispidus"
     },
     {
-      "name": "Viburno americano",
+      "name": "Black cap",
+      "species": "Rubus occidentalis"
+    },
+    {
+      "name": "Black-eyed Susan",
+      "species": "Rudbeckia hirta, Rudbeckia fulgida"
+    },
+    {
+      "name": "Blackhaw",
       "species": "Viburnum prunifolium"
     },
     {
-      "name": "Estafiate",
-      "species": "Ambrosia artemisiifolia, Artemisia ludoviciana"
+      "name": "Blackiehead",
+      "species": "Rudbeckia hirta"
     },
     {
-      "name": "Ajenjo del país",
-      "species": "Ambrosia artemisiifolia, Artemisia ludoviciana"
+      "name": "Black-weed",
+      "species": "Ambrosia artemisiifolia"
     },
     {
-      "name": "Altamisa",
-      "species": "Ambrosia artemisiifolia, Ambrosia peruviana, Artemisia vulgaris, Achillea millefolium, Parthenium hysterophorus, Tanacetum parthenium, Teucrium polium"
-    },
-    {
-      "name": "Amargosa",
-      "species": "Ambrosia artemisiifolia, Centaurium erythraea"
-    },
-    {
-      "name": "Artemisia",
-      "species": "Artemisia spp."
-    },
-    {
-      "name": "Arándano",
+      "name": "Blueberry",
       "species": "Vaccinium (Cyanococcus) spp."
     },
     {
-      "name": "Arándano azul",
-      "species": "Vaccinium corymbosum"
-    },
-    {
-      "name": "Ajo decorativo azul",
+      "name": "Blue-of-the-heavens",
       "species": "Allium caeruleum"
     },
     {
-      "name": "Boj",
+      "name": "Bow-wood",
+      "species": "Maclura pomifera"
+    },
+    {
+      "name": "Box",
       "species": "Buxus"
     },
     {
-      "name": "Incienso",
+      "name": "False box",
+      "species": "Cornus florida"
+    },
+    {
+      "name": "Boxelder",
+      "species": "Acer negundo"
+    },
+    {
+      "name": "Boxwood",
+      "species": "Buxus, Cornus florida"
+    },
+    {
+      "name": "False boxwood",
+      "species": "Cornus florida"
+    },
+    {
+      "name": "Sand brier",
+      "species": "Solanum carolinense"
+    },
+    {
+      "name": "Brittlebush",
       "species": "Encelia farinosa"
     },
     {
-      "name": "Llantén mayor",
+      "name": "Broadleaf",
       "species": "Plantago major"
     },
     {
-      "name": "Llantén",
-      "species": "Plantago major"
+      "name": "Brown Betty",
+      "species": "Rudbeckia hirta"
     },
     {
-      "name": "Alpiste",
-      "species": "Plantago major"
+      "name": "Brown-eyed Susan",
+      "species": "Rudbeckia hirta, Rudbeckia triloba"
     },
     {
-      "name": "Alpiste",
-      "species": "Phalaris canariensis"
-    },
-    {
-      "name": "Ballico",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Cañamón",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Cinco venas",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Gitanilla",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Grana",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Hierba de las siete costillas",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Hierba de las siete venas",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Hoja de lanté",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Hoja del antel",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Lanté",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Lantel",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Lantel del gordo",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Lantén",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Lengua de carnero",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Lengua de oveja",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Lentel",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Lentén",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Llanté",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Llantel",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Llantel mayor",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Llanten",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Llantén",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Llantén blanco",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Llantén blanquecino",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Llantén de agua",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Llantén de hoja ancha",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Llantén de hojas anchas",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Llantén grande",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Llanten mayor",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Llantén mayor",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Llantén mediano",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Mijo",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Mill",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Oreja de liebre",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Pan de pájaro",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Pelosilla",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Pelusa",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Plantago",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Plantaina",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Plantaje",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Pan de pájaro",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Rabos de ratón",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Resbala-muchachos",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Rompisaco",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Setecostas",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Sietenervios",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Siete nervios",
-      "species": "Plantago major"
-    },
-    {
-      "name": "Siete nervios",
-      "species": "Yantén"
-    },
-    {
-      "name": "Falso castaño de California",
+      "name": "Buckeye (California buckeye)",
       "species": "Aesculus californica"
     },
     {
-      "name": "Castaño de indias",
+      "name": "buckeye",
       "species": "Aesculus spp."
     },
     {
-      "name": "Falso castaño",
-      "species": "Aesculus spp."
+      "name": "Buffalo weed",
+      "species": "Ambrosia trifida"
     },
     {
-      "name": "Asclepia",
-      "species": "Asclepias spp."
-    },
-    {
-      "name": "Algodoncillo",
-      "species": "Asclepias spp."
-    },
-    {
-      "name": "Thlalayotl de México",
+      "name": "Butterfly flower",
       "species": "Asclepias syriaca"
     },
     {
-      "name": "Asclepia tuborosa",
+      "name": "Butterfly weed",
       "species": "Asclepias tuberosa"
     },
     {
-      "name": "Col",
+      "name": "Cabbage",
       "species": "Brassica oleracea"
     },
     {
-      "name": "Col de mofeta",
+      "name": "Clumpfoot cabbage",
       "species": "Symplocarpus foetidus"
     },
     {
-      "name": "Col de los pantanos",
+      "name": "Meadow cabbage",
       "species": "Symplocarpus foetidus"
     },
     {
-      "name": "Col de los prados",
+      "name": "Skunk cabbage",
+      "species": "Symplocarpus foetidus, Lysichiton spp."
+    },
+    {
+      "name": "Swamp cabbage",
       "species": "Symplocarpus foetidus"
     },
     {
@@ -899,640 +411,456 @@
       "species": "Umbellularia californica"
     },
     {
-      "name": "Laurel de California",
+      "name": "California buckeye",
       "species": "Aesculus californica"
     },
     {
-      "name": "Plátano de California",
+      "name": "California sycamore",
       "species": "Platanus racemosa"
     },
     {
-      "name": "Sicómoro de California",
-      "species": "Platanus racemosa"
-    },
-    {
-      "name": "Falso aliso",
-      "species": "Platanus racemosa"
-    },
-    {
-      "name": "Nogal de california",
+      "name": "California walnut",
       "species": "Juglans californica"
     },
     {
-      "name": "Carbonero de Cuba",
+      "name": "Canada root",
+      "species": "Asclepias tuberosa"
+    },
+    {
+      "name": "Cancer jalap",
       "species": "Phytolacca americana"
     },
     {
-      "name": "Carminero de Canarias",
-      "species": "Phytolacca americana"
-    },
-    {
-      "name": "Hierba carmín",
-      "species": "Phytolacca americana"
-    },
-    {
-      "name": "Hierba de la oblea",
-      "species": "Phytolacca americana"
-    },
-    {
-      "name": "Uvas de América",
-      "species": "Phytolacca americana"
-    },
-    {
-      "name": "Zanahoria silvestre",
+      "name": "Carrot",
       "species": "Daucus carota"
     },
     {
-      "name": "Palo fierro de Catalina",
+      "name": "Wild carrot",
+      "species": "Daucus carota"
+    },
+    {
+      "name": "Carrot weed",
+      "species": "Ambrosia artemisiifolia"
+    },
+    {
+      "name": "Cart track plant",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Catalina ironwood",
       "species": "Lyonothamnus floribundus ssp. floribundus"
     },
     {
-      "name": "Ciruelo",
+      "name": "Cherry",
       "species": "Prunus spp."
     },
     {
-      "name": "Cerezo criollo",
+      "name": "Black cherry",
       "species": "Prunus serotina"
     },
     {
-      "name": "Cerezo negro americano",
+      "name": "Cabinet cherry",
       "species": "Prunus serotina"
     },
     {
-      "name": "Capulí",
+      "name": "Rum cherry",
       "species": "Prunus serotina"
     },
     {
-      "name": "Guindo",
-      "species": "Prunus avium, Prunus cerasus"
+      "name": "Whiskey cherry",
+      "species": "Prunus serotina"
     },
     {
-      "name": "Cerezo silvestre",
-      "species": "Prunus avium"
+      "name": "Wild cherry",
+      "species": "Prunus avium, Prunus serotina"
     },
     {
-      "name": "Cerezo dulce",
-      "species": "Prunus avium"
+      "name": "Wild black cherry",
+      "species": "Prunus serotina"
     },
     {
-      "name": "Cerezo de monte",
-      "species": "Prunus avium"
-    },
-    {
-      "name": "Albaricoquero",
-      "species": "Prunus armeniaca"
-    },
-    {
-      "name": "Albaricoque",
-      "species": "Prunus armeniaca"
-    },
-    {
-      "name": "Damasco",
-      "species": "Prunus armeniaca"
-    },
-    {
-      "name": "Albergero",
-      "species": "Prunus armeniaca"
-    },
-    {
-      "name": "Chabacano",
-      "species": "Prunus armeniaca"
-    },
-    {
-      "name": "Ciruelo mirobolano",
-      "species": "Prunus cerasifera"
-    },
-    {
-      "name": "Ciruelo-cerezo",
-      "species": "Prunus cerasifera"
-    },
-    {
-      "name": "Ciruelo de jardín",
-      "species": "Prunus cerasifera"
-    },
-    {
-      "name": "Cerezo común",
-      "species": "Prunus cerasus"
-    },
-    {
-      "name": "Cerezo ácido",
-      "species": "Prunus cerasus"
-    },
-    {
-      "name": "Cerezo de Morello",
-      "species": "Prunus cerasus"
-    },
-    {
-      "name": "Ciruelo europeo",
-      "species": "Prunus domestica"
-    },
-    {
-      "name": "Almendro del desierto",
-      "species": "Prunus fasciculata"
-    },
-    {
-      "name": "Laurocerezo",
-      "species": "Prunus laurocerasus"
-    },
-    {
-      "name": "Lauroceraso",
-      "species": "Prunus laurocerasus"
-    },
-    {
-      "name": "Laurel cerezo",
-      "species": "Prunus laurocerasus"
-    },
-    {
-      "name": "Laurel portugués",
-      "species": "Prunus lusitanica"
-    },
-    {
-      "name": "Lauroceraso de Portugal",
-      "species": "Prunus lusitanica"
-    },
-    {
-      "name": "Loro",
-      "species": "Prunus lusitanica"
-    },
-    {
-      "name": "Hija",
-      "species": "Prunus lusitanica"
-    },
-    {
-      "name": "Cerezo de Manchuria",
-      "species": "Prunus maackii"
-    },
-    {
-      "name": "Cerezo de Santa Lucía",
-      "species": "Prunus mahaleb"
-    },
-    {
-      "name": "Ume",
-      "species": "Prunus mume"
-    },
-    {
-      "name": "Albaricoque japonés",
-      "species": "Prunus mume"
-    },
-    {
-      "name": "Ciruela china",
-      "species": "Prunus mume"
-    },
-    {
-      "name": "Ciruelo negro",
-      "species": "Prunus nigra"
-    },
-    {
-      "name": "Ciruelo negro",
-      "species": "Prunus nigra"
-    },
-    {
-      "name": "Cuajaní",
-      "species": "Prunus occidentalis"
-    },
-    {
-      "name": "Almendrillo",
-      "species": "Prunus occidentalis"
-    },
-    {
-      "name": "Almendrón",
-      "species": "Prunus occidentalis"
-    },
-    {
-      "name": "Cerezo de racimos",
-      "species": "Prunus padus"
-    },
-    {
-      "name": "Cerezo aliso",
-      "species": "Prunus padus"
-    },
-    {
-      "name": "Árbol de Santa Lucía",
-      "species": "Prunus padus"
-    },
-    {
-      "name": "Cerisuela",
-      "species": "Prunus padus"
-    },
-    {
-      "name": "Cerezo pado",
-      "species": "Prunus padus"
-    },
-    {
-      "name": "Cerezo de fuego",
-      "species": "Prunus pensylvanica"
-    },
-    {
-      "name": "Cereza de arena",
-      "species": "Prunus pumila"
-    },
-    {
-      "name": "Ciruelo chino",
-      "species": "Prunus salicina"
-    },
-    {
-      "name": "Ciruelo japonés",
-      "species": "Prunus salicina"
-    },
-    {
-      "name": "Melocotonero",
-      "species": "Prunus persica"
-    },
-    {
-      "name": "Duraznero",
-      "species": "Prunus persica"
-    },
-    {
-      "name": "Cerezo de flor japonés",
-      "species": "Prunus serrulata"
-    },
-    {
-      "name": "Endrino",
-      "species": "Prunus spinosa"
-    },
-    {
-      "name": "Cerezo de virginia",
-      "species": "Prunus virginiana"
-    },
-    {
-      "name": "Capulín",
-      "species": "Prunus virginiana"
-    },
-    {
-      "name": "Capulin",
-      "species": "Prunus virginiana"
-    },
-    {
-      "name": "Castaño",
+      "name": "Chestnut",
       "species": "Castanea spp."
     },
     {
-      "name": "Castaño japonés",
-      "species": "Castanea crenata"
+      "name": "Chigger flower",
+      "species": "Asclepias tuberosa"
     },
     {
-      "name": "Castaño americano",
-      "species": "Castanea dentata"
-    },
-    {
-      "name": "Castaño chinkapin",
-      "species": "Castanea henryi"
-    },
-    {
-      "name": "Castaño chino",
-      "species": "Castanea mollissima"
-    },
-    {
-      "name": "Castaño de Ozark",
-      "species": "Castanea ozarkensis"
-    },
-    {
-      "name": "Castaño europeo",
-      "species": "Castanea sativa"
-    },
-    {
-      "name": "Castaño Seguin",
-      "species": "Castanea seguinii"
-    },
-    {
-      "name": "Crisantemo de la China",
+      "name": "Chrysanthemum",
       "species": "Dendranthema grandiflora, Chrysanthemum morifolium"
     },
     {
-      "name": "Flor de Roma",
-      "species": "Dendranthema grandiflora, Chrysanthemum morifolium"
-    },
-    {
-      "name": "Sangre de Francia",
-      "species": "Dendranthema grandiflora, Chrysanthemum morifolium"
-    },
-    {
-      "name": "Árbol de la canela",
+      "name": "(True) cinnamon",
       "species": "Cinnamomum verum"
     },
     {
-      "name": "Canelo",
-      "species": "Cinnamomum verum"
-    },
-    {
-      "name": "Árbol del clavo",
+      "name": "Clove",
       "species": "Syzygium aromaticum"
     },
     {
-      "name": "Clavero",
-      "species": "Syzygium aromaticum"
-    },
-    {
-      "name": "Trébol",
+      "name": "Clover",
       "species": "Trifolium spp."
     },
     {
-      "name": "Cocotero",
+      "name": "Coakum",
+      "species": "Phytolacca americana"
+    },
+    {
+      "name": "Coconut",
       "species": "Cocos nucifera"
     },
     {
-      "name": "Cafeto",
+      "name": "Coffee plant",
       "species": "Coffea spp."
     },
     {
-      "name": "Aristoloquia",
-      "species": "Corydalis spp."
-    },
-    {
-      "name": "Coridalis",
-      "species": "Corydalis spp."
-    },
-    {
-      "name": "Apios de algunos",
-      "species": "Corydalis cava"
-    },
-    {
-      "name": "Aristoloquia hueca",
-      "species": "Corydalis cava"
-    },
-    {
-      "name": "Aristoloquia pequeña",
-      "species": "Corydalis cava"
-    },
-    {
-      "name": "Aristoloquia tenue",
-      "species": "Corydalis cava"
-    },
-    {
-      "name": "Fumaria bulbosa",
-      "species": "Corydalis cava"
-    },
-    {
-      "name": "Violeta bulbosa",
-      "species": "Corydalis cava"
-    },
-    {
-      "name": "Fumaria flavula",
+      "name": "Colic weed",
       "species": "Corydalis flavula"
     },
     {
-      "name": "Cerraja",
-      "species": "Sonchus oleraceus, Sonchus arvensis"
+      "name": "Collard",
+      "species": "Symplocarpus foetidus"
     },
     {
-      "name": "Cerrajón",
+      "name": "Hare's colwort",
       "species": "Sonchus oleraceus"
     },
     {
-      "name": "Cornejo",
-      "species": "Cornus spp."
+      "name": "Brilliant coneflower",
+      "species": "Rudbeckia fulgida"
     },
     {
-      "name": "Sanguiñuelo",
-      "species": "Cornus spp."
+      "name": "Cutleaf coneflower",
+      "species": "Rudbeckia laciniata"
     },
     {
-      "name": "Cerezo silvestre",
-      "species": "Cornus spp."
+      "name": "Eastern coneflower",
+      "species": "Rudbeckia fulgida"
     },
     {
-      "name": "Sanguino",
-      "species": "Cornus spp."
+      "name": "Green-headed Coneflower",
+      "species": "Rudbeckia laciniata"
     },
     {
-      "name": "Cornizo",
-      "species": "Cornus spp."
+      "name": "Orange coneflower",
+      "species": "Rudbeckia fulgida"
     },
     {
-      "name": "Corno",
-      "species": "Cornus spp."
+      "name": "Tall coneflower",
+      "species": "Rudbeckia laciniata"
     },
     {
-      "name": "Cornejo sedoso",
+      "name": "Thin-leaved Coneflower",
+      "species": "Rudbeckia triloba"
+    },
+    {
+      "name": "Three-leaved Coneflower",
+      "species": "Rudbeckia triloba"
+    },
+    {
+      "name": "Blueberry cornel",
       "species": "Cornus amomum"
     },
     {
-      "name": "Sanguiñuelo florido",
+      "name": "Silky cornel",
+      "species": "Cornus amomum"
+    },
+    {
+      "name": "White cornel",
       "species": "Cornus florida"
     },
     {
-      "name": "Aristoloquia dorada",
+      "name": "Cornelian tree",
+      "species": "Cornus florida"
+    },
+    {
+      "name": "Corydalis",
+      "species": "Corydalis spp."
+    },
+    {
+      "name": "Fern-leaf Corydalis",
+      "species": "Corydalis chelidoniifolia"
+    },
+    {
+      "name": "Golden corydalis",
       "species": "Corydalis aurea"
     },
     {
-      "name": "Aristoloquia clara",
+      "name": "Pale corydalis",
       "species": "Corydalis flavula, Corydalis sempervirens"
     },
     {
-      "name": "Aristoloquia rosa",
+      "name": "Pink corydalis",
       "species": "Corydalis sempervirens"
     },
     {
-      "name": "Aristoloquia amarilla",
+      "name": "Yellow corydalis",
       "species": "Corydalis lutea, Corydalis flavula"
     },
     {
-      "name": "Algodonero",
-      "species": "Gossypium spp."
+      "name": "Cotton plant",
+      "species": "Gossypium"
     },
     {
-      "name": "Árbol del algodón",
-      "species": "Gossypium arboreum"
-    },
-    {
-      "name": "Algodón de levante",
-      "species": "Gossypium herbaceum"
-    },
-    {
-      "name": "Algodón de tierras altas",
-      "species": "Gossypium hirsutum"
-    },
-    {
-      "name": "Algodón mexicano",
-      "species": "Gossypium hirsutum"
-    },
-    {
-      "name": "Algodón de Pima",
-      "species": "Gossypium barbadense"
-    },
-    {
-      "name": "Algodón Tangüis",
-      "species": "Gossypium barbadense"
-    },
-    {
-      "name": "Oruga palustre",
+      "name": "Creeping yellowcress",
       "species": "Rorippa sylvestris"
     },
     {
-      "name": "Roqueta palustre",
-      "species": "Rorippa sylvestris"
+      "name": "Cress",
+      "species": "(several genera)"
     },
     {
-      "name": "Hierba de Santa Bárbara",
+      "name": "American cress",
       "species": "Barbarea verna"
     },
     {
-      "name": "Yerba de Santa Bárbara",
+      "name": "Bank cress",
       "species": "Barbarea verna"
     },
     {
-      "name": "Roqueta de hortaliza",
+      "name": "Belle Isle cress",
       "species": "Barbarea verna"
     },
     {
-      "name": "Berrillo de Canarias",
+      "name": "Bermuda cress",
       "species": "Barbarea verna"
     },
     {
-      "name": "Pepino",
+      "name": "Bulbous cress",
+      "species": "Cardamine bulbosa"
+    },
+    {
+      "name": "Lamb's cress",
+      "species": "Cardamine hirsuta"
+    },
+    {
+      "name": "Land cress",
+      "species": "Barbarea verna, Cardamine hirsuta"
+    },
+    {
+      "name": "Scurvy cress",
+      "species": "Barbarea verna"
+    },
+    {
+      "name": "Spring cress",
+      "species": "Cardamine bulbosa"
+    },
+    {
+      "name": "Upland cress",
+      "species": "Barbarea verna"
+    },
+    {
+      "name": "Crowfoot",
+      "species": "Cardamine concatenata"
+    },
+    {
+      "name": "Crow's nest",
+      "species": "Daucus carota"
+    },
+    {
+      "name": "Crow's toes",
+      "species": "Cardamine concatenata"
+    },
+    {
+      "name": "Cucumber",
       "species": "Cucumis sativus"
     },
     {
-      "name": "Margarita",
+      "name": "Brown daisy",
+      "species": "Rudbeckia hirta"
+    },
+    {
+      "name": "Common daisy, daisy",
       "species": "Bellis perennis"
     },
     {
-      "name": "Ortiga muerta",
-      "species": "Lamium spp., Lamium maculatum"
+      "name": "Gloriosa daisy",
+      "species": "Rudbeckia hirta"
     },
     {
-      "name": "Zapatitos",
+      "name": "Poorland daisy",
+      "species": "Rudbeckia hirta"
+    },
+    {
+      "name": "Yellow daisy",
+      "species": "Rudbeckia hirta"
+    },
+    {
+      "name": "Yellow ox-eye daisy",
+      "species": "Rudbeckia hirta"
+    },
+    {
+      "name": "Deadnettle",
+      "species": "Lamium spp."
+    },
+    {
+      "name": "Henbit deadnettle",
       "species": "Lamium amplexicaule"
     },
     {
-      "name": "Conejitos",
-      "species": "Lamium amplexicaule"
+      "name": "Spotted deadnettle",
+      "species": "Lamium maculatum"
     },
     {
-      "name": "Ortiga mansa",
-      "species": "Lamium amplexicaule"
+      "name": "Devil's bite",
+      "species": "Veratrum viride"
     },
     {
-      "name": "Clemátide de tres hojas",
-      "species": "Clematis virginiana, Clematis apiifolia"
+      "name": "Devil's darning needle",
+      "species": "Clematis virginiana"
     },
     {
-      "name": "Cardincha",
+      "name": "Devil's nose",
+      "species": "Clematis virginiana"
+    },
+    {
+      "name": "Devil's plague",
+      "species": "Daucus carota"
+    },
+    {
+      "name": "Bristly dewberry",
+      "species": "Rubus hispidus"
+    },
+    {
+      "name": "Swamp dewberry",
+      "species": "Rubus hispidus"
+    },
+    {
+      "name": "Dindle",
       "species": "Sonchus arvensis"
     },
     {
-      "name": "Moringa",
+      "name": "Dogwood",
+      "species": "Cornus spp."
+    },
+    {
+      "name": "American dogwood",
+      "species": "Cornus florida"
+    },
+    {
+      "name": "Florida dogwood",
+      "species": "Cornus florida"
+    },
+    {
+      "name": "Flowering dogwood",
+      "species": "Cornus florida"
+    },
+    {
+      "name": "Japanese flowering dogwood",
+      "species": "Cornus kousa"
+    },
+    {
+      "name": "Kousa dogwood",
+      "species": "Cornus kousa"
+    },
+    {
+      "name": "Drumstick",
       "species": "Moringa oleifera"
     },
     {
-      "name": "Ben",
-      "species": "Moringa oleifera"
-    },
-    {
-      "name": "Cornejo del Pacífico",
+      "name": "Pacific dogwood",
       "species": "Cornus nuttallii"
     },
     {
-      "name": "Sanguiñuelo del Pacífico",
-      "species": "Cornus nuttallii"
+      "name": "Silky dogwood",
+      "species": "Cornus amomum"
     },
     {
-      "name": "Hierba mora",
+      "name": "Swamp dogwood",
+      "species": "Cornus amomum"
+    },
+    {
+      "name": "Duck retten",
+      "species": "Veratrum viride"
+    },
+    {
+      "name": "Duscle",
       "species": "Solanum nigrum"
     },
     {
-      "name": "Tomatillos del diablo",
-      "species": "Solanum nigrum"
-    },
-    {
-      "name": "Yerba mora",
-      "species": "Solanum nigrum"
-    },
-    {
-      "name": "Solano negro",
-      "species": "Solanum nigrum"
-    },
-    {
-      "name": "Uvas de perro",
-      "species": "Solanum nigrum"
-    },
-    {
-      "name": "Ceñiglos",
-      "species": "Solanum nigrum"
-    },
-    {
-      "name": "Acebo con baya de tinta",
+      "name": "Dye-leaves",
       "species": "Ilex glabra"
     },
     {
-      "name": "Eucalipto",
+      "name": "Earth gall",
+      "species": "Veratrum viride"
+    },
+    {
+      "name": "English bull's eye",
+      "species": "Rudbeckia hirta"
+    },
+    {
+      "name": "Eucalyptus",
       "species": "Eucalyptus spp."
     },
     {
-      "name": "Musgo",
-      "species": "Bryophyta spp."
+      "name": "Extinguisher moss",
+      "species": "Encalypta"
     },
     {
-      "name": "Botón de oro",
+      "name": "Eytelia",
+      "species": "Amphipappus"
+    },
+    {
+      "name": "Fair-maid-of-France",
       "species": "Achillea ptarmica"
     },
     {
-      "name": "Botón de plata",
-      "species": "Achillea ptarmica"
+      "name": "Fellenwort",
+      "species": "Solanum dulcamara"
     },
     {
-      "name": "Hierba estornudatoria",
-      "species": "Achillea ptarmica"
+      "name": "Felonwood",
+      "species": "Solanum dulcamara"
     },
     {
-      "name": "Ptármica",
-      "species": "Achillea ptarmica"
+      "name": "Felonwort",
+      "species": "Solanum dulcamara"
     },
     {
-      "name": "Tármica",
-      "species": "Achillea ptarmica"
-    },
-    {
-      "name": "Hinojo",
+      "name": "Fennel",
       "species": "Foeniculum vulgare"
     },
     {
-      "name": "Helecho común",
+      "name": "Boston fern or sword fern",
       "species": "Nephrolepis exaltata"
     },
     {
-      "name": "Helecho doméstico",
-      "species": "Nephrolepis exaltata"
-    },
-    {
-      "name": "Helecho navideño",
+      "name": "Christmas fern",
       "species": "Polystichum acrostichoides"
     },
     {
-      "name": "Polipodio de la costa",
+      "name": "Coast polypody",
       "species": "Polypodium scouleri"
     },
     {
-      "name": "Helecho reina Kimberly",
+      "name": "Kimberly queen fern",
       "species": "Nephrolepis obliterata"
     },
     {
-      "name": "Aspídea de Corea",
+      "name": "Korean rock fern",
       "species": "Polystichum tsus-simense"
     },
     {
-      "name": "Helecho de agua",
+      "name": "Mosquito fern",
       "species": "Azolla caroliniana"
     },
     {
-      "name": "Helecho flotante",
-      "species": "Azolla caroliniana"
-    },
-    {
-      "name": "Doradilla",
-      "species": "Azolla caroliniana"
-    },
-    {
-      "name": "Yerba del agua",
-      "species": "Azolla caroliniana"
-    },
-    {
-      "name": "Helecho de espada",
+      "name": "Sword ferns",
       "species": "Polystichum spp."
     },
     {
-      "name": "Helecho de espada occidental",
+      "name": "Water fern",
+      "species": "Azolla caroliniana"
+    },
+    {
+      "name": "Western sword fern",
       "species": "Polystichum munitum"
+    },
+    {
+      "name": "Feverbush",
+      "species": "Ilex verticillata"
     },
     {
       "name": "Feverfew",
@@ -1555,12 +883,20 @@
       "species": "Phormium tenax, Phormium colensoi"
     },
     {
+      "name": "Fluxroot",
+      "species": "Asclepias tuberosa"
+    },
+    {
       "name": "Yellow fumewort",
       "species": "Corydalis flavula"
     },
     {
       "name": "Gallberry",
       "species": "Ilex glabra"
+    },
+    {
+      "name": "Garget",
+      "species": "Phytolacca americana"
     },
     {
       "name": "Golden garlic",
@@ -1603,6 +939,14 @@
       "species": "Tanacetum vulgare"
     },
     {
+      "name": "Goldenglow",
+      "species": "Rudbeckia laciniata"
+    },
+    {
+      "name": "Golden Jerusalem",
+      "species": "Rudbeckia hirta"
+    },
+    {
       "name": "Gordaldo",
       "species": "Achillea millefolium"
     },
@@ -1617,6 +961,14 @@
     {
       "name": "Grapevine",
       "species": "Vitis"
+    },
+    {
+      "name": "Groundberry",
+      "species": "Rubus hispidus"
+    },
+    {
+      "name": "Bristly groundberry",
+      "species": "Rubus hispidus"
     },
     {
       "name": "Gutweed",
@@ -1635,12 +987,28 @@
       "species": "Corydalis flavula"
     },
     {
+      "name": "Hay fever weed",
+      "species": "Ambrosia artemisiifolia, Artemisia trifida"
+    },
+    {
+      "name": "Healing blade",
+      "species": "Plantago major"
+    },
+    {
       "name": "Hedge plant",
       "species": "Maclura pomifera"
     },
     {
       "name": "Hellebore",
       "species": "Helleborus"
+    },
+    {
+      "name": "American white hellebore",
+      "species": "Veratrum viride"
+    },
+    {
+      "name": "Big hellebore",
+      "species": "Veratrum viride"
     },
     {
       "name": "Black hellebore",
@@ -1655,6 +1023,14 @@
       "species": "Veratrum album, Veratrum viride"
     },
     {
+      "name": "Swamp hellebore",
+      "species": "Veratrum viride"
+    },
+    {
+      "name": "White hellebore",
+      "species": "Veratrum album, Veratrum viride"
+    },
+    {
       "name": "Hemp",
       "species": "Cannabis spp., specifically Cannabis sativa"
     },
@@ -1663,8 +1039,16 @@
       "species": "Apocynum cannabinum"
     },
     {
+      "name": "Hen plant",
+      "species": "Plantago major"
+    },
+    {
       "name": "Herb barbara",
       "species": "Barbarea vulgaris"
+    },
+    {
+      "name": "Hogweed",
+      "species": "Ambrosia artemisiifolia"
     },
     {
       "name": "Holly",
@@ -1689,6 +1073,10 @@
     {
       "name": "Swamp holly",
       "species": "Ilex decidua"
+    },
+    {
+      "name": "Winterberry holly",
+      "species": "Ilex verticillata"
     },
     {
       "name": "Horse cane",
@@ -1731,12 +1119,20 @@
       "species": "Castilleja, Castilleja mutis, Asclepias tuberosa"
     },
     {
+      "name": "Indian posy",
+      "species": "Asclepias tuberosa"
+    },
+    {
       "name": "Inkberry",
       "species": "Ilex glabra, Phytolacca americana"
     },
     {
       "name": "Isle of Man cabbage",
       "species": "Coincya monensis"
+    },
+    {
+      "name": "Itchweed",
+      "species": "Veratrum viride"
     },
     {
       "name": "Ivy",
@@ -1763,6 +1159,10 @@
       "species": "Rorippa sylvestris"
     },
     {
+      "name": "Kinnikinnik",
+      "species": "Cornus amomum"
+    },
+    {
       "name": "Kousa",
       "species": "Cornus kousa"
     },
@@ -1773,6 +1173,10 @@
     {
       "name": "Laceflower",
       "species": "Daucus carota"
+    },
+    {
+      "name": "Lamb's foot",
+      "species": "Plantago major"
     },
     {
       "name": "Lavender",
@@ -1911,6 +1315,10 @@
       "species": "Asclepias verticillata"
     },
     {
+      "name": "Orange milkweed",
+      "species": "Asclepias tuberosa"
+    },
+    {
       "name": "Swamp milkweed",
       "species": "Asclepias incarnata"
     },
@@ -1921,6 +1329,10 @@
     {
       "name": "Whorled milkweed",
       "species": "Asclepias verticillata"
+    },
+    {
+      "name": "Yellow milkweed",
+      "species": "Asclepias tuberosa"
     },
     {
       "name": "Milky tassel",
@@ -1983,8 +1395,16 @@
       "species": "Phytolacca americana, Solanum americanum"
     },
     {
+      "name": "Bitter nightshade",
+      "species": "Solanum dulcamara"
+    },
+    {
       "name": "Black nightshade",
       "species": "Solanum nigrum, Solanum americanum"
+    },
+    {
+      "name": "Climbing nightshade",
+      "species": "Solanum dulcamara"
     },
     {
       "name": "Deadly nightshade",
@@ -1993,6 +1413,18 @@
     {
       "name": "Garden nightshade",
       "species": "Solanum nigrum"
+    },
+    {
+      "name": "Trailing nightshade",
+      "species": "Solanum dulcamara"
+    },
+    {
+      "name": "Trailing violet nightshade",
+      "species": "Solanum dulcamara"
+    },
+    {
+      "name": "Woody nightshade",
+      "species": "Solanum dulcamara"
     },
     {
       "name": "Nosebleed",
@@ -2143,8 +1575,16 @@
       "species": "Maclura pomifera"
     },
     {
+      "name": "Orange-root",
+      "species": "Asclepias tuberosa"
+    },
+    {
       "name": "Osage",
       "species": "Maclura pomifera"
+    },
+    {
+      "name": "Red osier",
+      "species": "Cornus amomum"
     },
     {
       "name": "Parsley",
@@ -2191,6 +1631,10 @@
       "species": "Cardamine concatenata"
     },
     {
+      "name": "Pigeon berry",
+      "species": "Phytolacca americana"
+    },
+    {
       "name": "Pine",
       "species": "Pinus"
     },
@@ -2207,8 +1651,76 @@
       "species": "Platanus acerifolia"
     },
     {
+      "name": "Broadleaf plantain",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Common plantain",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Dooryard plantain",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Greater plantain",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Roundleaf plantain",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Wayside plantain",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Pleurisy root",
+      "species": "Asclepias tuberosa"
+    },
+    {
+      "name": "Pocan bush",
+      "species": "Phytolacca americana"
+    },
+    {
       "name": "Poison ivy",
       "species": "Toxicodendron radicans"
+    },
+    {
+      "name": "Poisonberry",
+      "species": "Solanum dulcamara"
+    },
+    {
+      "name": "Poisonflower",
+      "species": "Solanum dulcamara"
+    },
+    {
+      "name": "Poke",
+      "species": "Phytolacca americana"
+    },
+    {
+      "name": "Indian poke",
+      "species": "Veratrum viride"
+    },
+    {
+      "name": "Pokeroot",
+      "species": "Phytolacca americana"
+    },
+    {
+      "name": "Pokeweed",
+      "species": "Phytolacca americana"
+    },
+    {
+      "name": "Polkweed",
+      "species": "Symplocarpus foetidus"
+    },
+    {
+      "name": "Polecat weed",
+      "species": "Symplocarpus foetidus"
+    },
+    {
+      "name": "Poor Annie",
+      "species": "Veratrum viride"
     },
     {
       "name": "Poor man's mustard",
@@ -2249,6 +1761,10 @@
     {
       "name": "Ragweed",
       "species": "Ambrosia"
+    },
+    {
+      "name": "Common ragweed",
+      "species": "Ambrosia artemisiifolia"
     },
     {
       "name": "Giant ragweed",
@@ -2303,6 +1819,10 @@
       "species": "Rubus occidentalis"
     },
     {
+      "name": "Redbrush",
+      "species": "Cornus amomum"
+    },
+    {
       "name": "Redbud",
       "species": "Cercis spp."
     },
@@ -2319,6 +1839,14 @@
       "species": "Cercis siliquastrum"
     },
     {
+      "name": "Red ink plant",
+      "species": "Phytolacca americana"
+    },
+    {
+      "name": "Redweed",
+      "species": "Phytolacca americana"
+    },
+    {
       "name": "Rheumatism root",
       "species": "Apocynum cannabinum"
     },
@@ -2327,12 +1855,20 @@
       "species": "Rheum rhabarbarum"
     },
     {
+      "name": "Ribwort",
+      "species": "Plantago major"
+    },
+    {
       "name": "Asian rice",
       "species": "Oryza sativa"
     },
     {
       "name": "African rice",
       "species": "Oryza glaberrima"
+    },
+    {
+      "name": "Roadweed",
+      "species": "Plantago major"
     },
     {
       "name": "Rocket",
@@ -2411,6 +1947,14 @@
       "species": "Alliaria petiolata"
     },
     {
+      "name": "Scarlet berry",
+      "species": "Solanum dulcamara"
+    },
+    {
+      "name": "Scoke",
+      "species": "Phytolacca americana"
+    },
+    {
       "name": "Scotch cap",
       "species": "Rubus occidentalis"
     },
@@ -2459,6 +2003,14 @@
       "species": "Asclepias syriaca"
     },
     {
+      "name": "Skunkweed",
+      "species": "Symplocarpus foetidus"
+    },
+    {
+      "name": "Snakeberry",
+      "species": "Solanum dulcamara"
+    },
+    {
       "name": "Snowdrop",
       "species": "Galanthus"
     },
@@ -2483,8 +2035,20 @@
       "species": "Betula papyrifera"
     },
     {
+      "name": "Squaw bush",
+      "species": "Cornus amomum"
+    },
+    {
+      "name": "Stammerwort",
+      "species": "Ambrosia artemisiifolia"
+    },
+    {
       "name": "Star-of-Persia",
       "species": "Allium cristophii"
+    },
+    {
+      "name": "Stickweed",
+      "species": "Ambrosia artemisiifolia"
     },
     {
       "name": "Strawberry",
@@ -2501,6 +2065,10 @@
     {
       "name": "Sugarcane",
       "species": "Saccharum"
+    },
+    {
+      "name": "Orange swallow-wort",
+      "species": "Asclepias tuberosa"
     },
     {
       "name": "Silky swallow-wort",
@@ -2529,6 +2097,10 @@
     {
       "name": "Stag bush",
       "species": "Viburnum prunifolium"
+    },
+    {
+      "name": "Orange swallow-wort",
+      "species": "Asclepias tuberosa"
     },
     {
       "name": "Silky swallow-wort",
@@ -2571,6 +2143,10 @@
       "species": "Achillea ptarmica"
     },
     {
+      "name": "Wild tansy",
+      "species": "Ambrosia artemisiifolia"
+    },
+    {
       "name": "Tea",
       "species": "Camellia sinensis"
     },
@@ -2583,12 +2159,20 @@
       "species": "Rubus occidentalis"
     },
     {
+      "name": "Thimbleweed",
+      "species": "Rudbeckia laciniata"
+    },
+    {
       "name": "Thousand-leaf",
       "species": "Achillea millefolium"
     },
     {
       "name": "Thousand-seal",
       "species": "Achillea millefolium"
+    },
+    {
+      "name": "Tassel weed",
+      "species": "Ambrosia artemisiifolia"
     },
     {
       "name": "Thistle",
@@ -2687,6 +2271,10 @@
       "species": "Thymus, specifically Thymus vulgaris"
     },
     {
+      "name": "Tickleweed",
+      "species": "Veratrum viride"
+    },
+    {
       "name": "Tobacco plant",
       "species": "Nicotiana"
     },
@@ -2739,6 +2327,10 @@
       "species": "Trillium grandiflorum"
     },
     {
+      "name": "Tuber-root",
+      "species": "Asclepias tuberosa"
+    },
+    {
       "name": "Tulip",
       "species": "Tulipa"
     },
@@ -2783,6 +2375,10 @@
       "species": "Erythronium dens-canis"
     },
     {
+      "name": "Violet bloom",
+      "species": "Solanum dulcamara"
+    },
+    {
       "name": "Virgin's bower",
       "species": "Clematis virginiana"
     },
@@ -2799,12 +2395,24 @@
       "species": "Juglans sp."
     },
     {
+      "name": "Waybread",
+      "species": "Plantago major"
+    },
+    {
       "name": "Western redbud",
       "species": "Cercis occidentalis"
     },
     {
       "name": "Wheat",
       "species": "Triticum spp."
+    },
+    {
+      "name": "White man's foot",
+      "species": "Plantago major"
+    },
+    {
+      "name": "White-root",
+      "species": "Asclepias tuberosa"
     },
     {
       "name": "Wild cotton",
@@ -2827,12 +2435,36 @@
       "species": "Salix gooddingii"
     },
     {
+      "name": "Red willow",
+      "species": "Cornus amomum"
+    },
+    {
+      "name": "Rose willow",
+      "species": "Cornus amomum"
+    },
+    {
+      "name": "Windroot",
+      "species": "Asclepias tuberosa"
+    },
+    {
       "name": "Wineberry",
       "species": "Rubus phoenicolasius"
     },
     {
+      "name": "Winterberry",
+      "species": "Ilex verticillata"
+    },
+    {
+      "name": "American winterberry",
+      "species": "Ilex verticillata"
+    },
+    {
       "name": "Evergreen winterberry",
       "species": "Ilex glabra"
+    },
+    {
+      "name": "Virginia winterberry",
+      "species": "Ilex verticillata"
     },
     {
       "name": "Wintercress",
